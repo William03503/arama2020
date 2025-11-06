@@ -1,2 +1,6 @@
 Archivo1
+<<<<<<< HEAD
 Nueva linea en master
+=======
+Nueva linea en rama
+>>>>>>> actividad3
